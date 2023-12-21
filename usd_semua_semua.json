@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3",
+    "bankCustodian": "BNI",
+    "bankName": "BNI AM Dana Syariah Money Market",
+    "jenisMarket": "Reksa Dana Pasar Uang",
+    "jenisTransaksi": "0",
+    "status": "gagal",
+    "nomorRefrensi": "UT-70-220325000348131",
+    "tanggalOrder": "2023/12/24",
+    "rekeningDebet": "8889997798",
+    "nav": "",
+    "jumlahUnit": "",
+    "nominal": "500000",
+    "mataUang": "usd"
+  },
+  {
+    "id": "6",
+    "bankCustodian": "TRIM",
+    "bankName": "TRIM Syariah Berimbang Money Market",
+    "jenisMarket": "Reksa Dana Pasar Uang",
+    "jenisTransaksi": "0",
+    "status": "behasil",
+    "nomorRefrensi": "UT-70-220325000348131",
+    "tanggalOrder": "2023/12/24",
+    "rekeningDebet": "8889997798",
+    "nav": "",
+    "jumlahUnit": "",
+    "nominal": "1000",
+    "mataUang": "usd"
+  },
+  {
+    "id": "15",
+    "bankCustodian": "BNI",
+    "bankName": "BNI AM Dana Syariah Money Market",
+    "jenisMarket": "Reksa Dana Pasar Uang",
+    "jenisTransaksi": "0",
+    "status": "gagal",
+    "nomorRefrensi": "UT-70-220325000348131",
+    "tanggalOrder": "2023/12/21",
+    "rekeningDebet": "8889997798",
+    "nav": "",
+    "jumlahUnit": "",
+    "nominal": "500000",
+    "mataUang": "usd"
+  },
+  {
+    "id": "16",
+    "bankCustodian": "TRIM",
+    "bankName": "TRIM Syariah Berimbang Money Market",
+    "jenisMarket": "Reksa Dana Pasar Uang",
+    "jenisTransaksi": "0",
+    "status": "behasil",
+    "nomorRefrensi": "UT-70-220325000348131",
+    "tanggalOrder": "2023/12/21",
+    "rekeningDebet": "8889997798",
+    "nav": "",
+    "jumlahUnit": "",
+    "nominal": "1000",
+    "mataUang": "usd"
+  }
+]

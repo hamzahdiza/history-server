@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "localtunnel": "^2.0.2"
+  }
+}

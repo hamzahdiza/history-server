@@ -1,0 +1,31 @@
+{
+  "data": {
+    "images": {
+      "MLSM": "PHN2ZyB",
+      "BNI": "PH",
+      "ASHMORE": "PHN"
+    },
+    "transactionHistory": [
+      {
+        "date": "2023-12-25",
+        "history": [
+          {
+            "id": "3",
+            "bankCustodian": "BNI",
+            "bankName": "BNI AM Dana Syariah Money Market",
+            "jenisMarket": "Reksa Dana Pasar Uang",
+            "jenisTransaksi": "pembelian",
+            "status": "0",
+            "nomorRefrensi": "UT-70-220325000348131",
+            "tanggalOrder": "2023/12/25",
+            "rekeningDebet": "8889997798",
+            "nav": "",
+            "jumlahUnit": "",
+            "nominal": "500",
+            "mataUang": "usd"
+          }
+        ]
+      }
+    ]
+  }
+}
