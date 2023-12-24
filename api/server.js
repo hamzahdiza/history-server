@@ -3,10 +3,12 @@ const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const bodyParser = require("body-parser");
+const cors = require("cors");
 
 server.use(bodyParser.json());
 
 server.use(middlewares);
+server.use(cors());
 
 const formatResponse = (imagesData, historyData, page, limit) => {
   const startIndex = (page - 1) * limit;
