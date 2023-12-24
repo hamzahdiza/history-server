@@ -7,7 +7,7 @@ const cors = require("cors");
 
 server.use(bodyParser.json());
 
-server.use(middlewares);
+// server.use(middlewares);
 server.use(cors());
 
 const formatResponse = (imagesData, historyData, page, limit) => {
