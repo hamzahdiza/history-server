@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-server.use(bodyParser.json());
+// server.use(bodyParser.json());
 
 // server.use(middlewares);
 server.use(cors());
