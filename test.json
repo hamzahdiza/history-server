@@ -10,6 +10,23 @@
         "date": "2023-12-25",
         "history": [
           {
+            "id": "1",
+            "bankCustodian": "MLSM",
+            "bankName": "Manulife Syariah Money Market Khazanah Kelas A",
+            "jenisMarket": "Reksa Dana Pasar Uang",
+            "jenisTransaksi": "pembelian",
+            "status": "1",
+            "nomorRefrensi": "UT-70-220325000348131",
+            "tanggalOrder": "2023-12-25",
+            "rekeningDebet": "8889997798",
+            "nav": "",
+            "jumlahUnit": "",
+            "biaya": "2000",
+            "nominal": "200000",
+            "total": "202000",
+            "mataUang": "idr"
+          },
+          {
             "id": "3",
             "bankCustodian": "BNI",
             "bankName": "BNI AM Dana Syariah Money Market",
@@ -17,7 +34,7 @@
             "jenisTransaksi": "pembelian",
             "status": "0",
             "nomorRefrensi": "UT-70-220325000348131",
-            "tanggalOrder": "2023/12/25",
+            "tanggalOrder": "2023-12-25",
             "rekeningDebet": "8889997798",
             "nav": "",
             "jumlahUnit": "",
