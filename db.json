@@ -336,7 +336,7 @@
             "bankCustodian": "BNI",
             "bankName": "BNI AM Dana Syariah Money Market",
             "jenisMarket": "Reksa Dana Pasar Uang",
-            "jenisTransaksi": "pembelian",
+            "jenisTransaksi": "penjualan",
             "status": "0",
             "failedDesc": "1",
             "nomorRefrensi": "UT-70-220325000348131",
