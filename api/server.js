@@ -152,7 +152,9 @@ server.get("/historytest", (req, res) => {
     },
   };
 
-  res.jsonp(responseData);
+  setTimeout(() => {
+    res.jsonp(responseData);
+  }, 5000);
 });
 
 server.use("/historytest", router);
