@@ -120,6 +120,7 @@ server.get("/historytest", (req, res) => {
   results = results.sort((a, b) => new Date(b.tanggalOrder) - new Date(a.tanggalOrder));
 
   const totalCount = results.length;
+  console.log(totalCount);
 
   const page = parseInt(req.query._page) || 1;
   const limit = parseInt(req.query._limit) || 10;
@@ -154,7 +155,7 @@ server.get("/historytest", (req, res) => {
 
   setTimeout(() => {
     res.jsonp(responseData);
-  }, 5000);
+  }, 0);
 });
 
 server.use("/historytest", router);
