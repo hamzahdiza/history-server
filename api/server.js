@@ -58,7 +58,7 @@ server.get("/historytest/detail/:id", (req, res) => {
 
   setTimeout(() => {
     res.jsonp(responseData);
-  }, 5000);
+  }, 1000);
 });
 
 function filterImagesByCustodian(images, bankCustodian) {
@@ -157,7 +157,7 @@ server.get("/historytest", (req, res) => {
 
   setTimeout(() => {
     res.jsonp(responseData);
-  }, 5000);
+  }, 1000);
 });
 
 server.use("/historytest", router);
